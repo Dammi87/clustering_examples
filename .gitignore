@@ -1,0 +1,14 @@
+
+__pycache__/dash_lib\.cpython-35\.pyc
+
+*.pyc
+
+*.csv
+
+*.sublime-project
+
+*.sublime-workspace
+
+*.hdf
+
+*.json
